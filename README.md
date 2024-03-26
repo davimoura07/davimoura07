@@ -12,4 +12,4 @@ Eu sou <strong>Seu Nome</strong>, <strong>Meu nome é david e eu estou gostando 
 </div>
 **Contador De Visitas**
 
-![VisitorCount](https://profile-counter.glitch.me/{Duduxs}/count.svg)
+![VisitorCount](https://profile-counter.glitch.me/{davimoura07}/count.svg)
